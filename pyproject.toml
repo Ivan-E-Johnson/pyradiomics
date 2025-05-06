@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyradiomics"
-version = "3.1.1"
+version = "3.1.0"
 authors = [
     { name = "PyRadiomics Community", email = "pyradiomics@googlegroups.com"}
 ]
